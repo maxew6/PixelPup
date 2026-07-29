@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pixel Pup</string>
+    <string name="intro_text">Pixel Pup is a tiny dog that lives on top of your screen. It wanders on its own, reacts to charging, low battery, and unlocking your phone, and gets hungry and sleepy over time. Tap it to pet, double-tap for a treat, drag to pick it up, and long-press for more options.</string>
+    <string name="grant_overlay">Grant overlay permission</string>
+    <string name="let_pup_out">Let the pup out</string>
+    <string name="call_pup_back">Call pup back</string>
+    <string name="label_size">Dog size</string>
+    <string name="label_speed">Walk speed</string>
+    <string name="label_volume">Bark volume</string>
+    <string name="quiet_mode">Quiet mode</string>
+    <string name="status_title">Status</string>
+    <string name="status_placeholder">Mood: —   State: —</string>
+    <string name="notification_text">Pixel Pup is out</string>
+</resources>
